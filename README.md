@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Enis 👋</h1>
 <h3 align="center">A computer enthusiast. Loves programming, simplicity and making music. Trying to keep things simple.</h3><br>
 
-💻 I'm currently working as a Full Stack Developer<br>
+💻 I'm currently working as a Full Stack Developer.<br>
 🧹 My vision is to keep things simple and minimalistic as much as possible.<br>
 🤔 Problem? Where? I usually solve problems using programming. I also love automating things with code.<br>
 🌐 Here is my <a href="https://enisuge.com.tr">portfolio site</a>. I'm currently working on it.
