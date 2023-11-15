@@ -1,4 +1,4 @@
-<img align="center" src="https://www.enisuge.com.tr/assets/banner.svg" alt="Enis Üge"/>
+<img align="center" src='https://svgshare.com/i/zkW.svg' title='banner' alt="Enis Üge"/></a>
 <h1 align="center">Hi, I'm Enis 👋</h1>
 <h3 align="center">A computer enthusiast. Loves programming, simplicity and making music. Trying to keep things simple.</h3><br>
 
