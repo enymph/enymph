@@ -11,7 +11,7 @@
 ```javascript
 const enis = {
   code: ["Python", "PHP", "JavaScript", "HTML", "CSS", "Go", "NodeJS", "AngularJS", "Ionic", "PostgreSQL"],
-  hobies: ["programming", "piano", "art & design"],
+  hobbies: ["programming", "piano", "art & design"],
   technologies: {
       frontend: ["HTML", "CSS", "Bootstrap", "Tailwind"],
       backend: ["Python", "Go", "JS", "NodeJS", "PHP"],
